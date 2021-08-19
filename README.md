@@ -1,1 +1,1 @@
-# diffscraper
+DiffScraper is a tool to compare flight prices from Airline websites against their mobile application counterparts. DiffScraper will simultaneuously search the price for a given flight on the given airline's website and the airline's Android application.
