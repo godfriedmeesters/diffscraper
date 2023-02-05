@@ -1,0 +1,10 @@
+{
+  "company":"Expedia",
+  "comparison_type": ["Ger", "Fra"],
+  "files":{
+    "92-KLM-1720-BRU-AMS-07.05-08.00.csv": "92_KL1",
+    "92-KLM-1724-BRU-AMS-10.45-11.45.csv": "92_KL2",
+    "92-KLM-1726-BRU-AMS-15.05-16.00.csv": "92_KL3",
+    "92-KLM-1732-BRU-AMS-18.10-19.05.csv": "92_KL4"
+  }
+}

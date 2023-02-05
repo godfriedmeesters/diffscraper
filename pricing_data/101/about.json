@@ -1,0 +1,12 @@
+{
+  "company":"Expedia",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "101-Brussels Airlines-OPO-BRU-13.15.csv": "101_SN1",
+    "101-BrusselsAirlines-OPO-BRU-16.45.csv": "101_SN2",
+    "101-Ryanair-OPO-BRU-15.05-18.25.csv": "101_RF1",
+    "101-Ryanair-OPO-BRU-17.00-20.25.csv": "101_RF2",
+    "101-TAPPortugal_6768-OPO-BRU-16.45.csv": "101_TP1",
+    "101-TAPPortugal-6780-OPO-BRU-13.15.csv": "101_TP2"    
+  }
+}

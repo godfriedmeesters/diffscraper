@@ -1,0 +1,12 @@
+{
+  "company":"Expedia",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "100-KLM-AMS-ARN-06.50-08.50.csv": "100_KL1",
+    "100-KLM-AMS-ARN-10.20-12.20.csv": "100_KL2",
+    "100-KLM-AMS-ARN-14.40-16.40.csv": "100_KL3",
+    "100-KLM-AMS-ARN-17.30-19.30.csv": "100_KL4",
+    "100-KLM-AMS-ARN-20.50-22.55.csv": "100_KL5",
+    "100-SAS-AMS-ARN-11.00-13.05.csv": "100_KL6"
+  }
+}

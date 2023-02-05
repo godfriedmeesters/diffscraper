@@ -1,0 +1,11 @@
+{
+  "company":"AirFrance",
+  "comparison_type": ["Ger", "Fra"],
+  "route":["VIE", "AMS"],
+  "date": "2021-08-09",
+  "files":{
+    "103-KL1838-VIE-AMS-06.55-08.45.csv": "103_KL1",
+    "103-KL1840-VIE-AMS-11.50-13.45.csv": "103_KL2",
+    "103-KL1844-VIE-AMS-17.50-19.45.csv": "103_KL3"
+  }
+}

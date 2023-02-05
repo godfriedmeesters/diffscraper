@@ -1,0 +1,8 @@
+{
+  "company":"AirFrance",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "89-AF1019-FRA-CDG-07.05-08.35.csv": "89_AF1",
+    "89-AF1619-FRA-CDG-12.05-13.35.csv": "89_AF2"
+  }
+}

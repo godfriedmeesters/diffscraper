@@ -1,0 +1,11 @@
+{
+  "company":"Kayak",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "96-BrusselsAirlines-OPO-BRU-13.15.csv": "96_SN1",
+    "96-BrusselsAirlines-OPO-BRU-16.45.csv": "96_SN2",
+    "96-Ryanair-OPO-BRU-17.00-20.25.csv": "96_FR1",
+    "96-Ryanair-OPO-CRL-15.05-18.25.csv": "96_FR2"
+  },
+  "description": "Contains data from 96, but removes mobile web columns"
+}

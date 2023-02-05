@@ -1,0 +1,15 @@
+{
+  "company":"Opodo",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "68-AirFrance-AF1019-FRA-CDG-07.05-08.35.csv": "68_AF1",
+    "68-AirFrance-AF1619-FRA-CDG-12.05-13.35.csv": "68_AF2",
+    "68-Lufthansa-FRA-CDG-07.20-08.35.csv": "68_LH1",
+    "68-Lufthansa-FRA-CDG-09.20-10.35.csv": "68_LH2",
+    "68-Lufthansa-FRA-CDG-08.00-09.15.csv": "68_LH3",
+    "68-Lufthansa-FRA-CDG-12.25-13.40.csv": "68_LH4",
+    "68-Lufthansa-FRA-CDG-16.25-17.40.csv": "68_LH5",
+    "68-Lufthansa-FRA-CDG-21.30-22.45.csv": "68_LH6",
+    "68-Swiss International Air Lines-ZRH-CDG-17.25-18.40.csv": "68_LX1"
+    }
+}

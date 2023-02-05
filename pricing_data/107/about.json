@@ -1,0 +1,12 @@
+{
+  "company":"Kayak",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "107-easyJet-BER-BCN-16.25-19.00.csv": "107_EY1",
+    "107-Ryanair-BER-BCN-06.20-09.00.csv": "107_RF1",
+    "107-Ryanair-BER-BCN-11.30-14.05.csv": "107_RF2",
+    "107-Vueling-BER-BCN-15.05-17.40.csv": "107_VY1",
+    "107-Vueling-BER-BCN-21.50-00.25.csv": "107_VY2",
+    "107-Vueling-BER-BCN-22.20-00.55.csv": "107_VY3"
+  }
+}

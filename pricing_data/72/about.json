@@ -1,0 +1,10 @@
+{
+  "company":"AirFrance",
+  "comparison_type": ["Ger", "Fra"],
+  "route":["FRA", "CDG"],
+  "date": "2021-07-01",
+  "files":{
+    "72-AF1019-FRA-CDG-07.05-08.35.csv": "72_AF1",
+    "72-AF1619-FRA-CDG-12.05-13.35.csv": "72_AF2"
+  }
+}

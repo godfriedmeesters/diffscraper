@@ -1,0 +1,11 @@
+{
+  "company":"Expedia",
+  "comparison_type": ["Ger", "App"],
+  "route":["BRU", "AMS"],
+  "date": "2021-07-01",
+  "files":{
+    "65-KLM-BRU-AMS-07.05-08.00.csv": "65_KL1",
+    "65-KLM-BRU-AMS-11.00-12.00.csv": "65_KL2",
+    "65-KLM-BRU-AMS-18.10-19.05.csv": "65_KL3"
+  }
+}

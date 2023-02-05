@@ -1,0 +1,10 @@
+{
+  "company":"Opodo",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "99-Ryanair-OPO-BRU-17.00-20.25.csv": "99_FR1",
+    "99-Ryanair-OPO-CRL-15.05-18.25.csv": "99_FR2",
+    "99-TAPPortugal-OPO-BRU-13.15-16.35.csv": "99_TP1",
+    "99-TAPPortugal-OPO-BRU-16.45-20.05.csv": "99_TP2"
+  }
+}

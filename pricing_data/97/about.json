@@ -1,0 +1,19 @@
+{
+  "company":"Kayak",
+  "comparison_type": ["Ger", "App"],
+  "files":{
+    "97-AirEuropa-MAD-FCO-07.05.csv": "97_UX1",
+    "97-AirEuropa-MAD-FCO-12.10.csv": "97_UX2",
+    "97-AirEuropa-MAD-FCO-15.00.csv": "97_UX3",
+    "97-Alitalia-MAD-FCO-11.35.csv": "97_AZ1",
+    "97-Alitalia-MAD-FCO-12.10.csv": "97_AZ2",
+    "97-Alitalia-MAD-FCO-17.35.csv": "97_AZ3",
+    "97-Iberia-MAD-FCO-05.50-08.15.csv": "97_IB1",
+    "97-Iberia-MAD-FCO-08.10.csv": "97_IB2",
+    "97-Iberia-MAD-FCO-16.25.csv": "97_IB3",
+    "97-Iberia-MAD-FCO-19.50.csv": "97_IB4",
+    "97-Vueling-MAD-FCO-08.10.csv": "97_VY1",
+    "97-Vueling-MAD-FCO-16.25.csv": "97_VY2",
+    "97-Vueling-MAD-FCO-19.50.csv": "97_VY3"
+  }
+}

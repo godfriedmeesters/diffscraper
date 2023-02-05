@@ -1,0 +1,15 @@
+{
+  "company":"Opodo",
+  "comparison_type": ["Ger", "Fra"],
+  "files":{
+    "74-AirFrance-AF1019-FRA-CDG-07.05-08.35.csv": "74_AF1",
+    "74-AirFrance-AF1619-FRA-CDG-12.05-13.35.csv": "74_AF2",
+    "74-Lufthansa-FRA-CDG-07.20-08.35.csv": "74_LH1",
+    "74-Lufthansa-FRA-CDG-09.20-10.35.csv": "74_LH2",
+    "74-Lufthansa-FRA-CDG-08.00-09.15.csv": "74_LH3",
+    "74-Lufthansa-FRA-CDG-12.25-13.40.csv": "74_LH4",
+    "74-Lufthansa-FRA-CDG-16.25-17.40.csv": "74_LH5",
+    "74-Lufthansa-FRA-CDG-21.30-22.45.csv": "74_LH6",
+    "74-Swiss International Air Lines-ZRH-CDG-17.25-18.40.csv": "74_LX7"
+    }
+}
